@@ -30,3 +30,4 @@ Resource Estimator.
 - [integer-factorization-with-cli](./integer-factorization-with-cli): Resource estimation with Q# and VS Code
 - [estimation-time-qubits-constraints.ipynb](./estimation-time-qubits-constraints.ipynb): Estimates under time and the number of physical qubits constraints
 - [estimation-2d-ising.ipynb](./estimation-2d-ising.ipynb): Resource estimation for simulating a 2D Ising Model Hamiltonian
+- [estimation-2d-heisenberg.ipynb](./estimation-2d-heisenberg.ipynb): Resource estimation for simulating a 2D Heisenberg Model Hamiltonian
